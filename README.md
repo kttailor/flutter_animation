@@ -2,9 +2,9 @@
 
 This is the source code repository for study animation in Flutter. Cool animation found on dribble by [Anton Skvortsov](https://dribbble.com/AntonSKV) 
 
-# Video 
+# Demo
 
-[Demo](video/video.mov)
+![gif](https://github.com/kttailor/flutter_animation/blob/master/gif/video.gif)
 
 # Getting Started
 
